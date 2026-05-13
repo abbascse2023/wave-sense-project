@@ -8,3 +8,4 @@ requests
 passlib
 numpy
 python-multipart
+streamlit-autorefresh
