@@ -89,7 +89,7 @@ if not st.session_state.authed:
 st.sidebar.markdown("## 🌊 WaveSense")
 st.sidebar.caption("Ocean Monitoring Command Center")
 
-API_BASE = st.sidebar.text_input("API URL", value=st.session_state.get("API_BASE", "http://127.0.0.1:8000"))
+API_BASE = st.sidebar.text_input("API URL", value=st.session_state.get("API_BASE", "https://wave-sense.onrender.com"))
 st.session_state["API_BASE"] = API_BASE
 
 st.sidebar.write("Start API:")
