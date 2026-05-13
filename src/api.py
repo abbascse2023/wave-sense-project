@@ -6,7 +6,7 @@ from pathlib import Path
 from datetime import datetime
 from collections import deque
 
-from hotspot_rule import hotspot_zone
+from src.hotspot_rule import hotspot_zone
 
 BASE = Path(__file__).resolve().parents[1]
 MODELS = BASE / "models"
