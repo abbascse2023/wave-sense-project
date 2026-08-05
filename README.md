@@ -204,43 +204,49 @@ The Weather Alert Prediction model was trained using supervised Machine Learning
 ### 🖥️ Command Center — Home Dashboard
 The mission control view: live system status, last risk level, and quick access to every module.
 
-![Command Center](screenshots/01-command-center.png)
+<img width="1737" height="888" alt="01-command-center" src="https://github.com/user-attachments/assets/d072fd1c-51d9-4f20-814e-48d7ad5d51a5" />
+
 
 ---
 
 ### 🌦️ Weather Safety Prediction — Inputs
 Feed in live or manual sensor readings (temperature, wind, dew point, visibility, pressure, etc.) to generate a prediction.
 
-![Weather Safety Inputs](screenshots/02-weather-inputs.png)
+<img width="1724" height="800" alt="02-weather-inputs" src="https://github.com/user-attachments/assets/a63bc855-e9cc-454b-ae40-e044683b0c1e" />
+
 
 ### ⚠️ Weather Safety Prediction — Result
 The model returns a clear verdict, a confidence score, a risk meter, and an emergency checklist when conditions turn dangerous.
 
-![Weather Safety Result](screenshots/03-weather-result.png)
+<img width="1711" height="676" alt="03-weather-result" src="https://github.com/user-attachments/assets/a574764d-7bd0-447b-95fd-23f1bbc58cfd" />
+
 
 ---
 
 ### 🎯 Fishing Hotspot Zone
 Uses Sea Surface Temperature (SST) to estimate fishing potential and pairs it with decision-support guidance.
 
-![Fishing Hotspot Zone](screenshots/04-hotspot-zone.png)
+<img width="1708" height="832" alt="04-hotspot-zone" src="https://github.com/user-attachments/assets/404802dc-80dd-4a22-b548-ff3cc4d509e5" />
+
 
 ### 📊 Hotspot Zone Meter — Result
 A simple zone meter and suggested action, so users know exactly where and when to fish.
 
-![Hotspot Zone Result](screenshots/05-hotspot-result.png)
+<img width="629" height="751" alt="05-hotspot-result" src="https://github.com/user-attachments/assets/c3544a0c-46aa-4a01-ae48-a896ac79bb36" />
+
 
 ---
 
 ### 🛰️ Boat Tracking — Live Map
 Real-time GPS position on an interactive map, with geofence status to confirm the boat is within a safe boundary.
 
-![Boat Tracking](screenshots/06-boat-tracking.png)
+<img width="1761" height="769" alt="06-boat-tracking" src="https://github.com/user-attachments/assets/2c203e65-968b-4f61-b7bd-34a5242a7a31" />
+
 
 ### 🆘 SOS / Share GPS
 One-tap emergency sharing — broadcasts live coordinates to the shore team and logs the SOS event with timestamp and reason.
 
-![SOS Share GPS](screenshots/07-sos-share.png)
+<img width="1761" height="550" alt="07-sos-share" src="https://github.com/user-attachments/assets/ae5f6b5b-422a-438c-b76b-1173b64ee6c6" />
 
 ---
 
