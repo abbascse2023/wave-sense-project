@@ -270,6 +270,15 @@ Computer Science Engineering Student
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20Profile-0A66C2?style=flat-square&logo=linkedin)](#)
 
 ---
+## 📄 Research Publication
+
+This project was presented as a research paper:
+
+**Wave Sense: Smart Marine Boat Tracking and Fishing Assistance System using IoT and AI**
+
+📚 **Published in:** International Journal of Engineering Research & Technology (IJERT)
+
+🔗 **Read the Research Paper:** https://www.ijert.org/wave-sense-smart-marine-boat-tracking-and-fishing-assistance-system-using-iot-and-ai-ijertv15is031129
 
 ## ⭐ Support This Project
 
